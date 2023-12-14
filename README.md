@@ -1,8 +1,8 @@
 ## Sobre o desafio
 
-Nesse desafio você desenvolverá uma API para realizar o CRUD de suas *tasks* (tarefas).
+Nesse desafio será desenvolvido uma API para realizar o CRUD de suas *tasks* (tarefas).
 
-A API deve conter as seguintes funcionalidades:
+O que deve conter na API:
 
 - Criação de uma task
 - Listagem de todas as tasks
